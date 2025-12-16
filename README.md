@@ -6,7 +6,7 @@ AIでタスクを自動分解し、優先順位付けを行うChrome拡張アプ
 <img width="983" height="546" alt="スクリーンショット 2025-12-08 午前1 17 40" src="https://github.com/user-attachments/assets/3e7175fd-9418-4c3f-961c-ffe14efa872e" />
 
 ## 🚀Chrome拡張機能クイックスタート
-1. [ai-task-flow.zip](https://github.com/k-aoshima/ai-task-flow-release/blob/main/ai-task-flow.zip)をダウンロードし、解凍
+1. [releases](https://github.com/k-aoshima/ai-task-flow-release/releases)からai-task-flow.zipをダウンロードし、解凍
 2. google chromeの設定から「拡張機能」> 「拡張機能を管理」
 3. 拡張機能を管理ページの右上に「ディベロッパーモード」のトグルがあるのでONにする
 4. 画面左上に「パッケージ化されていない拡張機能を読み込む」があるのでクリックし、1で解凍したフォルダを選択する
